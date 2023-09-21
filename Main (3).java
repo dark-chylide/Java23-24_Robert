@@ -4,6 +4,6 @@ class Main {
     double amt = 5.6;
     double amt2 = 6.5;
 
-    System.out.println("number is"+(amt+amt2)/2);
+    System.out.println("average is"+(amt+amt2)/2);
   }
 }

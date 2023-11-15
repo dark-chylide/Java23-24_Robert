@@ -25,5 +25,15 @@ class Main {
     //  printed
     System.out.printf("sqrt(sqrt(625.0)) = %.1f\n", 
             sqrt(sqrt(625.0)) );
+  //------------------------------------------------------------------------
+System.out.println("-------------------------");
+    System.out.println(sqrt(25));
+    System.out.println(Math.pow(6,4));
+  //------------------------------------------------------------------------
+  System.out.println("-----------------------");
+    System.out.println("1st Random Number" + Math.random());
+    System.out.println("2nd Random Number" + Math.random());
+    System.out.println("3rd Random Number" + Math.random());
+    System.out.println("4th Random Number" + Math.random());
   }
 } 
